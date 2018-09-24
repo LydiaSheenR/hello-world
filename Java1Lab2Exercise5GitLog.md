@@ -3,13 +3,13 @@
 
 1. How do you see the files changed within each commit from git log?
 
-Answer: git log --stat
+*Answer:* git log --stat
 
 2. How do you see the contents of what changed within each file from the git log?
 
-Answer:git log --patch 
+*Answer:* git log --patch 
 
 3. What does HEAD refer to in the context of git? (Not to be confused with the "HEAD<<<<" one observes within merge conflict)
 
-Answer: HEAD refers to the top commit
+*Answer:* HEAD refers to the top commit
 
